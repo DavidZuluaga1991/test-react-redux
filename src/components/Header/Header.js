@@ -4,8 +4,8 @@ import './header.scss';
 function Header() {
     return (
         <header>
-            <div class="wrapper">
-                <div class="logo">FalconMasters</div>
+            <div className="wrapper">
+                <div className="logo">Test</div>
 
                 <nav>
                     <ul>

@@ -4,8 +4,8 @@ import { store } from './redux/store';
 import { Provider } from 'react-redux';
 import AppRouter from './router/AppRouter';
 import reportWebVitals from './reportWebVitals';
+// import './styles/core/reset';
 // import './styles/styles.scss';
-// import './styles/instance.scss';
 
 ReactDOM.render(
 
